@@ -1,0 +1,7 @@
+export const GET_ALL_USERS = "GET_ALL_USERS";
+export const ADD_FAVORITE = "ADD_FAVORITE";
+export const DELETE_FAVORITE = "DELETE_FAVORITE";
+export const FILTER_USERS = "FILTER_USERS";
+export const FILTER_SEARCH = "FILTER_SEARCH";
+export const SEARCH_NAME = "SEARCH_NAME";
+export const CHANGE_USER = "CHANGE_USER";

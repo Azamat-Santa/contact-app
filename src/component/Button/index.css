@@ -1,0 +1,19 @@
+.buttonCart{
+    background: #000;
+    color: white;
+    padding: 4px 20px;
+    border:none;
+    outline: none;
+    border-radius: 2px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.wrapper-button{
+    width: 100%;
+    text-align: right;
+}
+.button-form{
+    width: 100%;
+    height: 40px;
+    margin-top: 34px;
+}
